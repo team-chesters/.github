@@ -10,6 +10,11 @@
 ### Makeasy.js
 [Makeasy.js](https://github.com/team-chesters/makeasy)는 Lodash에서 영감을 받은 자바스크립트 함수 모음입니다.
 
+### noobcharts
+[noobcharts](https://github.com/team-chesters/noobcharts)는 Canvas API를 사용하지 않고 차트를 웹 브라우저에 표현하는 Vue.js Library입니다.<br />
+이전에 개발했던 vue-slim-stackedbar에서 영감을 얻었습니다. 우선 Makeasy.js에 초점을 두고 있어 개발이 미뤄질 것 같습니다. <br />
+vue-slim-stackedbar에 대한 정보는 [이곳에서](https://github.com/team-chesters/noobcharts/blob/master/OLD-README.md) 확인해주세요.
+
 ## Appendix
 
 * 사이드 프로젝트의 로드맵에 대한 내용을 보시려면 이곳을 클릭해주세요.
