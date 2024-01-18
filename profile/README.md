@@ -1,12 +1,17 @@
-## Hi there 👋
+## Chesters 👋
+![17e54ab4933386407](https://github.com/team-chesters/.github/assets/15936615/a068c2c1-ec6e-4808-ab97-7919194c6b61)
 
-<!--
+팀 체스터는 @che5ya 의 개인 팀 공간입니다. 이 공간에서의 작업은 2012년 4월부터 시작되었지만 실제 기록으로 저장된 것은 비교적 최근의 일입니다.
+개인 공간이지만 다른 이의 참여 및 기여를 위해 이름을 Team 으로 만들었습니다. 다른 모두의 참여와 기여는 언제나 환영입니다!
 
-**Here are some ideas to get you started:**
+## Projects
+팀 체스터의 주요 프로젝트는 현재 아래와 같습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Makeasy.js
+[Makeasy.js](https://github.com/team-chesters/makeasy)는 Lodash에서 영감을 받은 자바스크립트 함수 모음입니다.
+
+## Appendix
+
+* 사이드 프로젝트의 로드맵에 대한 내용을 보시려면 이곳을 클릭해주세요.
+* 혹시 제안주실 것이 있다면 이곳에서 알려주세요.
+* 만약 위 문장에 링크가 없다면 로드맵 또는 제안 repo가 준비되지 않았다는 뜻입니다! 빠른 시간 내 준비할게요!
