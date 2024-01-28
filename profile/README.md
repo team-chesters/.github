@@ -1,5 +1,5 @@
 ## Chesters 👋
-![17e54ab4933386407](https://github.com/team-chesters/.github/assets/15936615/a068c2c1-ec6e-4808-ab97-7919194c6b61)
+<!--![17e54ab4933386407](https://github.com/team-chesters/.github/assets/15936615/a068c2c1-ec6e-4808-ab97-7919194c6b61)-->
 
 팀 체스터스는 @che5ya 의 개인 팀 공간입니다. 팀 이름은 che5ya 닉네임의 원형인 Cheshire Cat 전설에 해당되는 영국 Chester에 기원하고 있습니다.
 이 공간은 개인 공간이지만 언젠가 있을 수도 있는 다른 이의 참여 및 기여를 위해 이름을 Team 으로 정했습니다. 모두의 참여와 기여는 언제나 환영입니다!
